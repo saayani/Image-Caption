@@ -1,0 +1,7 @@
+#Fri Mar 24 14:37:38 IST 2017
+base.0=/home/rajan/Desktop/ImageCaption/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_d371b7d36ff7c7e1190ee7507c30717e91c317b2
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/rajan/Desktop/ImageCaption/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_1b4df7b475001d39b7d02ca6a453dd19bc729d18/classes.dex
+base.1=/home/rajan/Desktop/ImageCaption/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_1b4df7b475001d39b7d02ca6a453dd19bc729d18
+file.0=/home/rajan/Desktop/ImageCaption/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_d371b7d36ff7c7e1190ee7507c30717e91c317b2/classes.dex

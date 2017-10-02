@@ -1,0 +1,25 @@
+#Thu Mar 16 18:01:56 IST 2017
+renamed.7=classes2.dex
+renamed.6=classes3.dex
+renamed.5=classes6.dex
+renamed.4=classes7.dex
+renamed.3=classes8.dex
+renamed.2=classes4.dex
+renamed.1=classes.dex
+renamed.0=classes5.dex
+base.7=/home/rajan/Desktop/ImageCaption/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f74c8bc555281a72b68d914fa515087403b47c97
+base.6=/home/rajan/Desktop/ImageCaption/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b73e91175dc0ba7f0d15aee05f5402b10d47198f
+base.5=/home/rajan/Desktop/ImageCaption/build/intermediates/transforms/dex/debug/folders/1000/10/commons-io-2.4_50112607f58a9920e7a386bda5b0b43952fb975f
+base.4=/home/rajan/Desktop/ImageCaption/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9ec0d85682a1ab065047dbff0b72a31648159de0
+base.3=/home/rajan/Desktop/ImageCaption/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-21.0.3_77cca03585d40f1329c50926a08c332099450e62
+base.2=/home/rajan/Desktop/ImageCaption/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.3.1_62262034a88c77b7d17696b007e1e8fdcc9d6f92
+base.1=/home/rajan/Desktop/ImageCaption/build/intermediates/transforms/dex/debug/folders/1000/2/jsoup-1.10.2_40e197e21acdd2dcb970fc562da50df742740c0c
+base.0=/home/rajan/Desktop/ImageCaption/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-21.0.3_987bab5f3e06211a6907eb9784fb6a4eb925584b
+file.7=/home/rajan/Desktop/ImageCaption/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f74c8bc555281a72b68d914fa515087403b47c97/classes.dex
+file.6=/home/rajan/Desktop/ImageCaption/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b73e91175dc0ba7f0d15aee05f5402b10d47198f/classes.dex
+file.5=/home/rajan/Desktop/ImageCaption/build/intermediates/transforms/dex/debug/folders/1000/10/commons-io-2.4_50112607f58a9920e7a386bda5b0b43952fb975f/classes.dex
+file.4=/home/rajan/Desktop/ImageCaption/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9ec0d85682a1ab065047dbff0b72a31648159de0/classes.dex
+file.3=/home/rajan/Desktop/ImageCaption/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-21.0.3_77cca03585d40f1329c50926a08c332099450e62/classes.dex
+file.2=/home/rajan/Desktop/ImageCaption/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.3.1_62262034a88c77b7d17696b007e1e8fdcc9d6f92/classes.dex
+file.1=/home/rajan/Desktop/ImageCaption/build/intermediates/transforms/dex/debug/folders/1000/2/jsoup-1.10.2_40e197e21acdd2dcb970fc562da50df742740c0c/classes.dex
+file.0=/home/rajan/Desktop/ImageCaption/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-21.0.3_987bab5f3e06211a6907eb9784fb6a4eb925584b/classes.dex

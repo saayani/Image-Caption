@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/rajan/Desktop/ImageCaption/libs/jsoup-1.10.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="61f84a97f1a4f5905547b8b74afff8dc93f4cfce">
+        <dex dex="/home/rajan/Desktop/ImageCaption/build/intermediates/transforms/dex/debug/folders/1000/2/jsoup-1.10.2_40e197e21acdd2dcb970fc562da50df742740c0c/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rajan/.android/build-cache/a032653f061c9aa832fbb1e39221b54cca8dbf80/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/home/rajan/Desktop/ImageCaption/build/intermediates/pre-dexed/debug/classes_b73e91175dc0ba7f0d15aee05f5402b10d47198f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rajan/Desktop/ImageCaption/libs/jsoup-1.10.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="61f84a97f1a4f5905547b8b74afff8dc93f4cfce">
+        <dex dex="/home/rajan/Desktop/ImageCaption/build/intermediates/pre-dexed/debug/jsoup-1.10.2_40e197e21acdd2dcb970fc562da50df742740c0c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rajan/Desktop/ImageCaption/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2fe6ddb53af24264ccf78afbc38f45a0f1b2c189">
+        <dex dex="/home/rajan/Desktop/ImageCaption/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_d371b7d36ff7c7e1190ee7507c30717e91c317b2/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rajan/.android/build-cache/a032653f061c9aa832fbb1e39221b54cca8dbf80/output/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/home/rajan/Desktop/ImageCaption/build/intermediates/pre-dexed/debug/internal_impl-21.0.3_77cca03585d40f1329c50926a08c332099450e62.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rajan/.android/build-cache/762d8d0465e2f77c3b3679064ee6b515042707b7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/home/rajan/Desktop/ImageCaption/build/intermediates/pre-dexed/debug/classes_f74c8bc555281a72b68d914fa515087403b47c97.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rajan/.android/build-cache/55e8bed031800509cf764d8a1850cc3ef7bcff1e/output/jars/libs/commons-io-2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="/home/rajan/Desktop/ImageCaption/build/intermediates/pre-dexed/debug/commons-io-2.4_50112607f58a9920e7a386bda5b0b43952fb975f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rajan/.android/build-cache/55e8bed031800509cf764d8a1850cc3ef7bcff1e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9b1a002a8b4bdd3d66cbadfdc4b16dfabd8e1042">
+        <dex dex="/home/rajan/Desktop/ImageCaption/build/intermediates/pre-dexed/debug/classes_9ec0d85682a1ab065047dbff0b72a31648159de0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rajan/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/home/rajan/Desktop/ImageCaption/build/intermediates/pre-dexed/debug/gson-2.3.1_62262034a88c77b7d17696b007e1e8fdcc9d6f92.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rajan/Desktop/ImageCaption/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/home/rajan/Desktop/ImageCaption/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_1b4df7b475001d39b7d02ca6a453dd19bc729d18/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rajan/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/home/rajan/Desktop/ImageCaption/build/intermediates/pre-dexed/debug/support-annotations-21.0.3_987bab5f3e06211a6907eb9784fb6a4eb925584b.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/home/rajan/Desktop/ImageCaption/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/home/rajan/.android/build-cache/762d8d0465e2f77c3b3679064ee6b515042707b7/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/rajan/Desktop/ImageCaption/build/intermediates/res/merged/debug/color/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/rajan/.android/build-cache/762d8d0465e2f77c3b3679064ee6b515042707b7/output/res/color/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/home/rajan/Desktop/ImageCaption/build/intermediates/res/merged/debug/color/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/rajan/.android/build-cache/762d8d0465e2f77c3b3679064ee6b515042707b7/output/res/color/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/rajan/Desktop/ImageCaption/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/home/rajan/.android/build-cache/762d8d0465e2f77c3b3679064ee6b515042707b7/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/rajan/Desktop/ImageCaption/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/home/rajan/.android/build-cache/762d8d0465e2f77c3b3679064ee6b515042707b7/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/rajan/Desktop/ImageCaption/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/home/rajan/.android/build-cache/762d8d0465e2f77c3b3679064ee6b515042707b7/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/home/rajan/Desktop/ImageCaption/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/home/rajan/.android/build-cache/762d8d0465e2f77c3b3679064ee6b515042707b7/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/home/rajan/Desktop/ImageCaption/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/home/rajan/.android/build-cache/762d8d0465e2f77c3b3679064ee6b515042707b7/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/rajan/Desktop/ImageCaption/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/home/rajan/.android/build-cache/762d8d0465e2f77c3b3679064ee6b515042707b7/output/res/color/abc_search_url_text.xml"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/rajan/Desktop/ImageCaption/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/home/rajan/.android/build-cache/762d8d0465e2f77c3b3679064ee6b515042707b7/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/rajan/Desktop/ImageCaption/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/home/rajan/.android/build-cache/762d8d0465e2f77c3b3679064ee6b515042707b7/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/rajan/Desktop/ImageCaption/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/home/rajan/.android/build-cache/762d8d0465e2f77c3b3679064ee6b515042707b7/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/rajan/Desktop/ImageCaption/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/home/rajan/.android/build-cache/762d8d0465e2f77c3b3679064ee6b515042707b7/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/rajan/Desktop/ImageCaption/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/home/rajan/.android/build-cache/762d8d0465e2f77c3b3679064ee6b515042707b7/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/rajan/Desktop/ImageCaption/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/home/rajan/.android/build-cache/762d8d0465e2f77c3b3679064ee6b515042707b7/output/res/anim/abc_slide_out_bottom.xml"
+    }
+]

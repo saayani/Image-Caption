@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/rajan/Desktop/ImageCaption/build/intermediates/res/merged/debug/menu/menu_main.xml",
+        "source": "/home/rajan/Desktop/ImageCaption/src/main/res/menu/menu_main.xml"
+    },
+    {
+        "merged": "/home/rajan/Desktop/ImageCaption/build/intermediates/res/merged/debug/menu/menu_analyze.xml",
+        "source": "/home/rajan/Desktop/ImageCaption/src/main/res/menu/menu_analyze.xml"
+    },
+    {
+        "merged": "/home/rajan/Desktop/ImageCaption/build/intermediates/res/merged/debug/menu/menu_thumbnail.xml",
+        "source": "/home/rajan/Desktop/ImageCaption/src/main/res/menu/menu_thumbnail.xml"
+    },
+    {
+        "merged": "/home/rajan/Desktop/ImageCaption/build/intermediates/res/merged/debug/menu/menu_recognize.xml",
+        "source": "/home/rajan/Desktop/ImageCaption/src/main/res/menu/menu_recognize.xml"
+    },
+    {
+        "merged": "/home/rajan/Desktop/ImageCaption/build/intermediates/res/merged/debug/menu/menu_describe.xml",
+        "source": "/home/rajan/Desktop/ImageCaption/src/main/res/menu/menu_describe.xml"
+    }
+]
